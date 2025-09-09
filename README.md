@@ -87,7 +87,7 @@ uvicorn api.app:app --reload
 ```
 
 ## Architecture Diagram
-**Diagram link:** <add-your-diagram-link>
+**Diagram link:** https://github.com/EmmanuelDufitumukiza/ctrl-cash/blob/main/docs/architecture.png
 
 ## Scrum Board
-**Board link:** <add-your-board-link>
+**Board link:** https://github.com/users/EmmanuelDufitumukiza/projects/1/views/1
