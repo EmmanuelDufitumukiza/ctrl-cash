@@ -6,7 +6,7 @@ Analyze MoMo SMS XML, clean and categorize transactions, store in SQLite, and vi
 - Team name: **Ctrl+Cash 💸**  
 - Members:  
   - Emmanuel Dufitumukiza  
-  - Muhoza Olivier Yvan
+  - Muhoza Olvier Yvan
 
 ## Repo Setup
 1. One member creates a GitHub repo and invites teammates as collaborators.
