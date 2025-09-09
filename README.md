@@ -1,4 +1,4 @@
-# MoMo SMS Analytics – Team Project
+# MoMo SMS Analytics – Group work
 
 Analyze MoMo SMS XML, clean and categorize transactions, store in SQLite, and visualize on a simple frontend dashboard.
 
