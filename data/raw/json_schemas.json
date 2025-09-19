@@ -1,0 +1,35 @@
+{
+  "transaction_id": 1,
+  "amount": 5000.00,
+  "currency": "RWF",
+  "transaction_date": "2025-09-19T12:00:00",
+  "status": "SUCCESS",
+  "sender": {
+    "user_id": 1,
+    "full_name": "Alice Umutoni",
+    "phone_number": "+250788111111"
+  },
+  "receiver": {
+    "user_id": 2,
+    "full_name": "John Mugisha",
+    "phone_number": "+250788222222"
+  },
+  "category": {
+    "category_id": 4,
+    "category_name": "P2P Transfer"
+  },
+  "logs": [
+    {
+      "log_id": 1,
+      "action": "Parsed from XML",
+      "timestamp": "2025-09-19T12:05:00",
+      "performed_by": "system"
+    },
+    {
+      "log_id": 2,
+      "action": "Inserted to DB",
+      "timestamp": "2025-09-19T12:06:00",
+      "performed_by": "etl_service"
+    }
+  ]
+}
